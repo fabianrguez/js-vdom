@@ -1,0 +1,19 @@
+{
+  "name": "js-vdom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "source": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/plugin-transform-react-jsx": "^7.16.7",
+    "parcel": "^2.2.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}

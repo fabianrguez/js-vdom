@@ -1,0 +1,14 @@
+button {
+  padding: 0.75rem;
+  background: rebeccapurple;
+  border: none;
+  outline: 0;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.04);
+}
